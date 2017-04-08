@@ -1,3 +1,1 @@
-## TapCard
-
-Library for reading bank card info via NFC inside your Android app
+# [View GitHub repo](https://github.com/TapCard/TapCard)
