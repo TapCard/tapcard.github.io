@@ -1,7 +1,4 @@
-## TapCard
-Replace card number input with NFC tap!
-
-### Description
+### What is it?
 A Java library to let your app users enter an NFC or EMV card info in a flash – just by holding it to the back of their phone. Don’t lose clients because they hate to manually enter all the card details – this process on a phone is awkward.<br/>
 
 Demo app available on the Play store
